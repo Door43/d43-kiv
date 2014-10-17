@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kiv:home|Door43 (kiv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kiv|d43-kiv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kiv/archive/master.zip|d43-kiv.zip]]
+
+**Recent Changes**
+{{changes>ns = kiv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kiv|Ethnologue data]]
+
